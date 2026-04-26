@@ -1,154 +1,127 @@
-<h1 align="center">Hi 👋, we are R.H.E.X.</h1>
-<h3 align="center">AI Engineer × React Native Developer</h3>
+# Uzair Farooq
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/uzair-farooq-7968b2312/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin/" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RHEXorg/R.H.E.X." target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:rhexorg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-silver?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="https://rhex.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Website-ff9800?style=for-the-badge&logo=vercel" alt="Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/43361221/file/original-9618d663147a0a397adf2d91a63a05c1.gif" alt="AI Engineer Animation" width="600" />
-</p>
-
-<p align="center">
-  Building intelligent, user-centric applications that bridge the gap between powerful AI and intuitive mobile interfaces. <br />
-  Focused on transforming complex data and workflows into deploy-ready tools that people love to use. <br />
-  <br />
-
-</p>
-
----
-
-## 🚀 Core Competencies
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤖 AI & Automation Engineering</h3>
-      <p>I specialize in building custom AI solutions that automate tasks, extract insights, and power intelligent applications.</p>
-      <ul>
-        <li><b>LLM Integration:</b> GPT (OpenAI, Claude), DeepSeek, OpenRouter</li>
-        <li><b>Rapid Prototyping:</b> Python & Streamlit for fast, interactive UIs</li>
-        <li><b>Data Automation:</b> Processing PDFs, Excel, Web Scraping & Reports</li>
-        <li><b>Prompt Engineering:</b> Crafting precise prompts for optimal AI performance</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📱 React Native Mobile Development</h3>
-      <p>I build modern, production-ready mobile apps from concept to launch for both Android and iOS.</p>
-      <ul>
-        <li><b>Frameworks:</b> React Native & Expo (Managed and Bare)</li>
-        <li><b>Styling & UI:</b> NativeWind, Tailwind CSS for responsive UIs</li>
-        <li><b>Backend Integration:</b> Firebase, Stripe, REST APIs</li>
-        <li><b>State Management:</b> Redux Toolkit for scalable apps</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Project Showcase
-
-### ✨ Featured Project
-
-| Project                                     | Description                                                                                             | Tech Stack                                     |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **[DevScope](https://github.com/Qrf2/Devscope)** | An AI-powered developer assistant designed to streamline coding workflows, debug code, and generate documentation directly within your environment. | `OCR`, `GPT`, `Openrouter`, `Tailwind` |
-
-
-### 🤖 Recent AI Tools
-
-| Project               | Description                                      |
-| --------------------- | ------------------------------------------------ |
-| **Excel AI Insights** | Upload Excel → Get smart summaries & chart suggestions |
-| **Resume Optimizer** | Match your resume to any job description with AI |
-| **YouTube Summarizer**| Generate chapters & summaries from transcripts in seconds |
-| **Website Chatbot** | Train a custom chatbot on your website's content |
-| **AI Blog Writer** | Turn keywords into SEO-optimized long-form articles |
-| **Feedback Analyzer** | Discover user pain points from customer reviews  |
-
-### 📱 Recent Mobile Apps
-
-| App | Description |
-|---|---|
-| **Habity** | Full-featured habit tracker with streaks, 2FA, cloud sync, and a help center |
-| **MoneyMate** | Currency converter app with real-time global exchange rate data |
-| **OilHub (UI)** | UI concept for Pakistan’s first dedicated engine oil selling app |
-| **foodApp (UI)** | Modern food delivery layout with scrollable categories and smooth navigation |
-
----
-
-## 🛠️ My Tech Stack
-
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
----
-
-## 🌱 Current Focus & Learning
+**AI Engineer · Mobile Developer · Founder, [RehXa](https://rehxa.com)**
 
 <p>
-  - 🔭 I’m currently working on <b><a href="https://github.com/Qrf2?tab=repositories">App Development & AI Automation Tools</a></b>.<br/>
-  - 🌱 I’m currently learning <b>LangChain, DeepSeek APIs, Advanced React Native animations, Stripe, and IoT</b>.<br/>
-  - 👨‍💻 All of my projects are available at <b><a href="https://github.com/Qrf2?tab=repositories">github.com/Qrf2</a></b>.<br/>
-  - 🌐 My portfolio: <b><a href="https://uzairqrf.netlify.app/">uzairqrf.netlify.app</a></b>
+  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://uzairqrf.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="mailto:uzairqrf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://rehxa.com" target="_blank">
+    <img src="https://img.shields.io/badge/RehXa-rehxa.com-0066FF?style=flat" alt="RehXa"/>
+  </a>
 </p>
 
-## 📊 My GitHub Stats
+I build production-grade AI systems and cross-platform mobile applications. My work focuses on applied LLM integration, intelligent automation pipelines, and shipping software that solves real business problems.
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qrf2&show_icons=true&locale=en&theme=tokyonight" alt="qrf2" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrf2&layout=compact&langs_count=8&theme=tokyonight" alt="qrf2" />
+---
+
+### RehXa — AI-Powered Customer Communication Platform
+
+> **[rehxa.com](https://rehxa.com)** — Your business never misses a customer message again.
+
+RehXa is an autonomous AI communication layer for businesses. It processes incoming WhatsApp and Email messages in real time, understands customer intent, generates contextually accurate replies from a per-business knowledge base, and escalates to humans only when confidence is low.
+
+<details>
+<summary><b>Architecture & Capabilities</b></summary>
+<br>
+
+**How it works:**
+
+```
+Customer Message (WhatsApp / Email)
+        │
+        ▼
+  Webhook Layer ─────── 360dialog / Composio
+        │
+        ▼
+  Tenant Router ─────── Supabase (business identification)
+        │
+        ▼
+  Context Assembly ──── Knowledge Base + History + RAG
+        │
+        ▼
+  LLM Engine ────────── Claude API (intent + response)
+        │
+        ▼
+  Confidence Gate
+  ├── ≥ 0.85 → Auto-send
+  └── < 0.85 → Draft → Owner review → Approve/Edit
+        │
+        ▼
+  Delivery ──────────── 360dialog / Composio
+        │
+        ▼
+  Analytics ─────────── Supabase + Next.js Dashboard
+```
+
+**Key capabilities:**
+- Real-time message processing via 360dialog (WhatsApp) and Composio (Email/Calendar)
+- Per-business RAG pipeline — documents, pricing, policies, tone calibration
+- Confidence-scored responses with automatic escalation logic
+- Automated follow-up engine for lead nurturing and customer retention
+- Unified inbox with team routing and conversation analytics
+- Multi-language support with automatic detection
+
+**Stack:** Node.js · Claude API · Supabase · Next.js · Composio · 360dialog · Railway
+
+</details>
+
+---
+
+### Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [DevScope](https://github.com/Qrf2/Devscope) | AI developer assistant — code debugging, analysis, and documentation generation | OCR · GPT · OpenRouter · Tailwind |
+| Habity | Habit tracker with streaks, 2FA, cloud sync, and integrated help center | React Native · Expo · Firebase |
+| Excel AI Insights | Spreadsheet analysis — upload data, receive AI-generated summaries and chart recommendations | Python · Streamlit · GPT |
+| Resume Optimizer | AI-driven resume-to-job-description matching and optimization engine | Python · GPT · Streamlit |
+
+---
+
+### Technical Skills
+
+```
+AI & LLMs          Claude API · OpenAI GPT · DeepSeek · OpenRouter · RAG · Prompt Engineering · LangChain
+Mobile              React Native · Expo · Redux Toolkit · NativeWind
+Backend             Node.js · Python · Supabase · Firebase · REST APIs · Stripe
+Frontend            Next.js · TypeScript · JavaScript · Tailwind CSS
+Data                Pandas · Scikit-learn · Web Scraping · PDF/Excel Processing
+Infrastructure      Railway · Linux · Git · Arduino/IoT
+```
+
+---
+
+### Currently
+
+- Scaling RehXa toward public launch and first 100 paying customers
+- Building integrations: Google Calendar, Stripe, Shopify via Composio
+- Advancing work with LangChain and production RAG architectures
+- Exploring IoT and hardware-software integration
+
+---
+
+### GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=qrf2&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 💼 Let's Collaborate!
+### Contact
 
-I'm actively seeking new opportunities and love collaborating on innovative projects. If you have an idea, let's make it a reality.
+Open to collaboration on AI-powered products, mobile applications, and automation systems.
 
-- 🧠 **Need a custom AI tool?** I’ll build it.
-- 📲 **Want a mobile MVP?** I’ll ship it.
-- 📊 **Got complex data?** I’ll turn it into a tool your clients will love.
-
-<p align="left">
-  <a href="mailto:Uzairqrf@gmail.com"><b>📩 Email Me</b></a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/"><b>🖇️ Connect on LinkedIn</b></a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://uzairqrf.netlify.app/"><b>🌐 View My Portfolio</b></a>
-</p>
-
-<h3 align="left">You can also find me on:</h3>
-<p align="left">
-<a href="https://twitter.com/qrfuzair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qrfuzair" height="30" width="40" /></a>
-<a href="https://kaggle.com/uzairqrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uzairqrf" height="30" width="40" /></a>
-<a href="https://dev.to/uzairqrf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="uzairqrf" height="30" width="40" /></a>
-<a href="https://instagram.com/xaelthurn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xaelthurn" height="30" width="40" /></a>
+<p>
+  <a href="mailto:uzairqrf@gmail.com"><b>Email</b></a> · 
+  <a href="https://www.linkedin.com/in/uzair-qrf-815ba026a/"><b>LinkedIn</b></a> · 
+  <a href="https://uzairqrf.netlify.app/"><b>Portfolio</b></a> · 
+  <a href="https://rehxa.com"><b>RehXa</b></a>
 </p>
