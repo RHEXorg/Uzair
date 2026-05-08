@@ -240,30 +240,31 @@ AI developer assistant — debugging, doc generation, and OCR-driven context cap
 ### What I Build, In One Picture
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#1a1a1a', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#3a3a3a', 'lineColor':'#6a6a6a', 'fontSize':'14px'}}}%%
 flowchart LR
-    A[Customer Message] --> B[FastAPI Gateway]
+    A[Customer Message] --> B[API Gateway]
     B --> C{Classifier}
     C -->|High confidence| D[RAG Retrieval]
     C -->|Low confidence| E[Human Escalation]
-    D --> F[LLM Inference<br/>OpenAI · Claude]
+    D --> F[LLM Inference]
     F --> G[Tone Layer]
     G --> H[Reply Sent]
     H --> I[(Postgres + pgvector)]
     E --> I
-    I --> J[Follow-up Engine<br/>Celery + Redis]
+    I --> J[Follow-up Engine]
     J --> A
 
-    style A fill:#1a1a1a,stroke:#3a3a3a,color:#fff
-    style B fill:#1a1a1a,stroke:#3a3a3a,color:#fff
-    style C fill:#2a2a2a,stroke:#4a4a4a,color:#fff
-    style D fill:#1a1a1a,stroke:#3a3a3a,color:#fff
-    style E fill:#7c2d12,stroke:#9a3412,color:#fff
-    style F fill:#1e1b4b,stroke:#3730a3,color:#fff
-    style G fill:#1a1a1a,stroke:#3a3a3a,color:#fff
-    style H fill:#14532d,stroke:#166534,color:#fff
-    style I fill:#0c4a6e,stroke:#075985,color:#fff
-    style J fill:#1a1a1a,stroke:#3a3a3a,color:#fff
+    classDef default fill:#1a1a1a,stroke:#3a3a3a,color:#fff
+    classDef decision fill:#2a2a2a,stroke:#4a4a4a,color:#fff
+    classDef escalate fill:#7c2d12,stroke:#9a3412,color:#fff
+    classDef ai fill:#1e1b4b,stroke:#3730a3,color:#fff
+    classDef success fill:#14532d,stroke:#166534,color:#fff
+    classDef data fill:#0c4a6e,stroke:#075985,color:#fff
+
+    class C decision
+    class E escalate
+    class F ai
+    class H success
+    class I data
 ```
 
 <sub>The RehXa pipeline — simplified.</sub>
